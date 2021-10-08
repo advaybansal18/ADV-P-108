@@ -1,0 +1,32 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color:#a1c8cf;
+}
+.header_div{
+    background:#d95032;
+    color:ghostwhite;
+    font-weight:bolder;
+    box-shadow:3px 5px 10px yellow;
+}
+.header_div p{
+    color:mediumblue;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top:30px;
+    font-weight:bolder;
+    width:150px;
+    letter-spacing: 4px;
+}
+.copy_write_footer{
+    position:fixed;
+    text-align:center;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    background-color: maroon;
+    color:whitesmoke;
+    text-shadow:3px 5px 6px whitesmoke;
+}
